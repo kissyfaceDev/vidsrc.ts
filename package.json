@@ -7,5 +7,7 @@
   },
   "devDependencies": {
     "typescript": "5.2.2"
-  }
+  },
+  "exports": "./src/vidsrc.ts"
+}
 }
